@@ -1,0 +1,9 @@
+{
+  "require": {
+    "jumbojett/openid-connect-php": "^1.0.1",
+    "phpseclib/phpseclib": "^3.0.47",
+    "paragonie/constant_time_encoding": "^3.0.0",
+    "paragonie/random_compat": "^2.0.21",
+    "simplexlsx": "^1.1.13"
+  }
+}
