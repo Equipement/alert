@@ -169,9 +169,9 @@
             "install-path": "../paragonie/random_compat"
         },
         {
-            "name": "phpseclib/phpseclib",
-            "version": "3.0.52",
-            "version_normalized": "3.0.52.0",
+            "name": "php/php",
+            "version": "3.0.55",
+            "version_normalized": "3.0.55.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
